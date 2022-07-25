@@ -11,12 +11,6 @@ Projeto destiano à requisição de consumo de rotas [projeto server-products] e
 
 **IMPORTANTE** - É possível criar e deletar os produtos em tempo real.
 
-<img src="./src/assets/home-page.PNG" alt="Foto Kain"/><br>
-<img src="./src/assets/new-task.PNG" alt="Foto Kain"/><br>
-<img src="./src/assets/edit-task.PNG" alt="Foto Kain"/><br>
-<img src="./src/assets/delete-task.PNG" alt="Foto Kain"/><br>
-<img src="./src/assets/painel-task.PNG" alt="Foto Kain"/><br>
-
 O projeto foi criado em:
 
 - [x] - ReactJS
