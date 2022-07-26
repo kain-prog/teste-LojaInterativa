@@ -5,7 +5,7 @@ Projeto destiano à requisição de consumo de rotas [projeto server-products] e
 
 - [x] - Página Home.
 - [x] - Ser possível criar produtos.
-- [x] - Deletar tarefas existentes.
+- [x] - Deletar produtos existentes.
 - [x] - Renderizar todos os produtos na home-page.
 - [x] - Filtrar os produtos.
 
