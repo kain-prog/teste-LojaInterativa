@@ -1,4 +1,4 @@
-Create Read Update Delete Task´s ✔<br>
+Create Read & Delete products ✔<br>
 
 > Descrição:
 Projeto destiano à requisição de consumo de rotas [projeto server-products] e criação da interface com base do teste.
